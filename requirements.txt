@@ -1,0 +1,13 @@
+tkinter
+cv2
+face_recognition
+numpy
+mysql-connector-python
+datetime
+pillow
+contextlib
+time
+queue
+threading
+logging
+sys
